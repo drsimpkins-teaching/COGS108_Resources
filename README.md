@@ -12,6 +12,12 @@ Helpful Resources for COGS 108 Students
 - [LeetCode](https://leetcode.com/)
 - [PythonPractice](https://www.practicepython.org/)
 
+#### Command Line or Terminal:
+- [Command Line for Beginners](https://www.freecodecamp.org/news/command-line-for-beginners/)
+- [Linux Command Line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [Terminal Cheat Sheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
+- [Git Command Line Cheat Sheet](https://gist.github.com/davfre/8313299)
+
 #### Version Control (git and GitHub):
 - [Getting Started with git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 - [GitHub Guide](https://guides.github.com/activities/hello-world/)
