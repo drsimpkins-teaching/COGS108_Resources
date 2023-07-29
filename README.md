@@ -1,10 +1,13 @@
 # Resources
-Helpful Resources for COGS 108 Students
+Helpful Resources for Students of data science and modeling and data analysis
 
 #### Basic Python: 
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) (book) 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-- COGS 18 Materials [notes](https://github.com/COGS18/Materials); [textbook](https://shanellis.github.io/pythonbook) 
+- COGS 18 Materials [notes](https://github.com/COGS18/Materials); [textbook](https://shanellis.github.io/pythonbook)
+
+#### Handy Quick References:
+- [matplotlib cheat sheets](https://matplotlib.org/cheatsheets/) - these are really handy to have on your machine ready to go. Great references.
 
 #### Online Python Courses/Practice:
 - [Codeacademy](https://www.codecademy.com/learn/learn-python-3)
