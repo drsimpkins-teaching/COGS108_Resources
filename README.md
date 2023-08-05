@@ -53,10 +53,17 @@ Helpful Resources for Students of data science and modeling and data analysis
 #### NLP (Natural Language Processing)
 - [NLP in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc) (youtube video)
 
-
-
 #### Machine Learning Resources
 - [MIT's Intro to Deep Learning](http://introtodeeplearning.com/), course
 - [Mathematical Underpinnings](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN), video from Andrew Ng
 - [Keras & TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk), video
 - [Resources in ML, DL, RL, and NLP](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+
+#### Team management in science and data science
+-   [https://www.nationalacademies.org/our-work/the-science-of-team-science](https://www.nationalacademies.org/our-work/the-science-of-team-science)
+-   [https://research.upenn.edu/resources/hub/team/managing/](https://research.upenn.edu/resources/hub/team/managing/)  
+-   [https://doresearch.stanford.edu/resources-collaboration-and-team-science](https://doresearch.stanford.edu/resources-collaboration-and-team-science)   
+-   [https://www.socra.org/blog/cultivating-an-effective-research-team-through-application-of-team-science-principles/](https://www.socra.org/blog/cultivating-an-effective-research-team-through-application-of-team-science-principles/)    
+-   [https://www.ncbi.nlm.nih.gov/books/NBK310381/](https://www.ncbi.nlm.nih.gov/books/NBK310381/)  
+-   [https://en.wikipedia.org/wiki/Science\_of\_team\_science](https://en.wikipedia.org/wiki/Science_of_team_science)  
+-   [https://hbr.org/2018/10/managing-a-data-science-team](https://hbr.org/2018/10/managing-a-data-science-team)
